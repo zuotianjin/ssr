@@ -78,9 +78,9 @@ chmod +x bbr.sh
 
 最后重启服务器
 ssr客户端下载
-Windows SSR客户端 点击下载地址（https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases）
-MacOS SSR客户端 点击下载地址（https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases）
-Linux SSR客户端 点击下载地址(https://github.com/erguotou520/electron-ssr/releases)
+Windows SSR客户端 点击下载地址（https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases ）
+MacOS SSR客户端 点击下载地址（https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases ）
+Linux SSR客户端 点击下载地址(https://github.com/erguotou520/electron-ssr/releases )
 安卓 SSR客户端 点击下载地址(https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
 苹果手机SSR客户端：Potatso Lite、Potatso、shadowrocket都可以作为SSR客户端，但这些软件目前已经在国内的app商店下架，可以用美区的appid账号来下载。但是，如果你配置的SSR账号兼容SS客户端，或者协议选择origin且混淆选择plain，那么你可以选择苹果SS客户端软件（即协议和混淆可以不填），APP商店里面有很多，比如：openwingy、superwingy、bestwingy、wingy+、greatwingy等。
 有了账号后，打开SSR客户端，填上信息，这里以Windows版的SSR客户端为例子：
